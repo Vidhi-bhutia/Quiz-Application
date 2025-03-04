@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <round title="Round 1: General Science" time="900" maxScore="20">
+        <question>
+            <text>Which gas is most abundant in Earth's atmosphere?</text>
+            <options>
+                <option>Oxygen</option>
+                <option>Carbon Dioxide</option>
+                <option>Nitrogen</option>
+                <option>Hydrogen</option>
+            </options>
+            <answer>Nitrogen</answer>
+        </question>
+        <question>
+            <text>What is the SI unit of Force?</text>
+            <options>
+                <option>Pascal</option>
+                <option>Newton</option>
+                <option>Joule</option>
+                <option>Watt</option>
+            </options>
+            <answer>Newton</answer>
+        </question>
+        <question>
+            <text>What is the powerhouse of the cell?</text>
+            <options>
+                <option>Ribosome</option>
+                <option>Nucleus</option>
+                <option>Mitochondria</option>
+                <option>Golgi Apparatus</option>
+            </options>
+            <answer>Mitochondria</answer>
+        </question>
+        <question>
+            <text>What is the chemical symbol of Gold?</text>
+            <options>
+                <option>Go</option>
+                <option>Au</option>
+                <option>Ag</option>
+                <option>Gl</option>
+            </options>
+            <answer>Au</answer>
+        </question>
+        <question>
+            <text>What is the largest organ in the human body?</text>
+            <options>
+                <option>Heart</option>
+                <option>Liver</option>
+                <option>Skin</option>
+                <option>Brain</option>
+            </options>
+            <answer>Skin</answer>
+        </question>
+        <question>
+            <text>What is the chemical symbol of Sodium?</text>
+            <options>
+                <option>So</option>
+                <option>Na</option>
+                <option>Nd</option>
+                <option>Sn</option>
+            </options>
+            <answer>Na</answer>
+        </question>
+        <question>
+            <text>What is the hardest substance in the human body?</text>
+            <options>
+                <option>Enamel</option>
+                <option>Bone</option>
+                <option>Cartilage</option>
+                <option>Teeth</option>
+            </options>
+            <answer>Enamel</answer>
+        </question>
+        <question>
+            <text>What is the chemical symbol of Iron?</text>
+            <options>
+                <option>Ir</option>
+                <option>Fe</option>
+                <option>Io</option>
+                <option>In</option>
+            </options>
+            <answer>Fe</answer>
+        </question>
+        <question>
+            <text>What is the chemical symbol of Silver?</text>
+            <options>
+                <option>Si</option>
+                <option>Ag</option>
+                <option>Sl</option>
+                <option>Sv</option>
+            </options>
+            <answer>Ag</answer>
+        </question>
+        <question>
+            <text>What is the chemical symbol of Hydrogen?</text>
+            <options>
+                <option>Hg</option>
+                <option>Hd</option>
+                <option>Hn</option>
+                <option>H</option>
+            </options>
+            <answer>H</answer>
+        </question>
+    </round>
+
+    <round title="Round 2: General Knowledge" time="900" maxScore="10">
+        <question>
+            <text>Who is the first President of India?</text>
+            <options>
+                <option>Dr. Rajendra Prasad</option>
+                <option>Jawaharlal Nehru</option>
+                <option>Indira Gandhi</option>
+                <option>Sardar Patel</option>
+            </options>
+            <answer>Dr. Rajendra Prasad</answer>
+        </question>
+        <question>
+        <text>Who is the author of the book "To Kill a Mockingbird"?</text>
+        <options>
+            <option>Harper Lee</option>
+            <option>Mark Twain</option>
+            <option>Charles Dickens</option>
+            <option>William Shakespeare</option>
+        </options>
+        <answer>Harper Lee</answer>
+        </question>
+        <question>
+            <text>Which planet is known as the Red Planet?</text>
+            <options>
+                <option>Venus</option>
+                <option>Mercury</option>
+                <option>Mars</option>
+                <option>Jupiter</option>
+            </options>
+            <answer>Mars</answer>
+        </question>
+        <question>
+            <text>Which is the largest mammal?</text>
+            <options>
+                <option>Elephant</option>
+                <option>Blue Whale</option>
+                <option>Giraffe</option>
+                <option>Hippopotamus</option>
+            </options>
+            <answer>Blue Whale</answer>
+        </question>
+        <question>
+            <text>Which is the largest ocean?</text>
+            <options>
+                <option>Atlantic Ocean</option>
+                <option>Indian Ocean</option>
+                <option>Arctic Ocean</option>
+                <option>Pacific Ocean</option>
+            </options>
+        <answer>Pacific Ocean</answer>
+        </question>
+    </round>
+
+    <round title="Round 3: Logo Identification" time="480" maxScore="20">
+        <question>
+            <text>Which company has the golden arches logo?</text>
+            <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/McDonald%27s_square_2020.svg/640px-McDonald%27s_square_2020.svg.png</image>
+            <options>
+                <option>McDonald's</option>
+                <option>Burger King</option>
+                <option>KFC</option>
+                <option>Subway</option>
+            </options>
+            <answer>McDonald's</answer>
+        </question>
+        <question>
+        <text>Which company has a apple as its logo?</text>
+        <image>https://static-00.iconduck.com/assets.00/apple-logo-icon-1661x2048-8adk63j7.png</image>
+        <options>
+            <option>Apple</option>
+            <option>Microsoft</option>
+            <option>Google</option>
+            <option>Amazon</option>
+        </options>
+        <answer>Apple</answer>
+        </question>
+        <question>
+        <text>Which brand is represented by a swoosh logo?</text>
+        <image>https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg</image>
+        <options>
+            <option>Adidas</option>
+            <option>Nike</option>
+            <option>Puma</option>
+            <option>Reebok</option>
+        </options>
+        <answer>Nike</answer>
+        </question>
+        <question>
+        <text>Which car company has a prancing horse logo?</text>
+        <image>https://logos-world.net/wp-content/uploads/2020/07/Ferrari-Scuderia-Logo.jpg</image>
+        <options>
+            <option>Mercedes</option>
+            <option>Ferrari</option>
+            <option>Lamborghini</option>
+            <option>Porsche</option>
+        </options>
+        <answer>Ferrari</answer>
+        </question>
+        <question>
+        <text>Which tech company has an infinity loop-style logo?</text>
+        <image>https://www.cdnlogo.com/logos/m/59/meta.svg</image>
+        <options>
+            <option>Meta</option>
+            <option>Intel</option>
+            <option>IBM</option>
+            <option>Tesla</option>
+        </options>
+        <answer>Meta</answer>
+        </question>
+    </round>
+</quiz>
